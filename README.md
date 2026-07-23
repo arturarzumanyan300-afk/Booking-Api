@@ -142,17 +142,7 @@ npm install
 
 ---
 
-## 🔧 Environment Variables
 
-Create `.env` file:
-
-```env
-DATABASE_URL="postgresql://username:password@localhost:5432/booking"
-JWT_SECRET="your_secret"
-PORT=3000
-```
-
----
 
 ## 🛠 Prisma Setup
 
@@ -280,4 +270,4 @@ Implemented:
 Backend Developer
 
 GitHub:
-github.com/arturarzumanyan300
+github.com/arturarzumanyan300-afk
